@@ -4,7 +4,6 @@
 List = [] 
 lis= []
 
-
 def resistor_s(a, n):
     List.append(a) 
     if len(List) >= 1 :
