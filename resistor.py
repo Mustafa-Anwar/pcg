@@ -14,6 +14,3 @@ def resistor_s(a, n):
 resistor(480, 1)
 resistor(300, 2)
 resistor(220, 3)
-#print("a : " , a)
-
-
